@@ -1,0 +1,8 @@
+
+function foo() {
+    var bar
+    quux = 'value'
+    function zip () {
+        var quux = 2   
+    }
+}
